@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Claude Code internal settings
+.claude/
+
+# Raw data (large files; obtain from PersonaConflicts corpus — see README)
+data/raw/
+
+# Generated batch prompt (large, reproducible via src/06_generate_batch_prompt.py)
+data/processed/batch_prompt.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
