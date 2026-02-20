@@ -62,7 +62,7 @@ Claude (claude.ai) prompted with structured NVC rewrite instructions + backstory
 | pos       | 1.15           | 0.00                 | **1.15**  |
 | neg       | 1.15           | 0.05                 | **1.10**  |
 
-LLM rewriting consistently eliminated surface-level VC markers across all backstory conditions. Original VC types present: Moralistic Judgment (4), Demand (3), Comparison (2), Denial of Responsibility (1), Deserve Thinking (1).
+LLM rewriting consistently eliminated surface-level VC markers across all backstory conditions, indicating a saturation effect in surface-level marker removal. Original VC types present: Moralistic Judgment (4), Demand (3), Comparison (2), Denial of Responsibility (1), Deserve Thinking (1).
 
 ### RQ2: NVC Component Structure by Backstory Condition
 
@@ -90,6 +90,7 @@ VC marker removal shows a **ceiling effect** — the LLM eliminates harmful mark
 - Some seed utterances have low baseline conflict intensity (VC count = 0)
 - Single LLM annotator; no inter-rater reliability
 - The +0.10 feeling effect requires replication at larger scale
+- Because the same LLM generates and annotates the rewrite, structural scores may reflect prompt alignment rather than independent evaluation.
 
 ---
 
