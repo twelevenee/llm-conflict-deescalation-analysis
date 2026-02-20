@@ -1,0 +1,4 @@
+pandas>=2.0
+python-dotenv>=0.21
+anthropic>=0.83       # optional: for API-based rewrite pipeline (src/03_generate_rewrites.py)
+google-genai>=1.0     # optional: alternative API backend

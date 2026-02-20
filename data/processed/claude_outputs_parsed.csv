@@ -1,0 +1,61 @@
+row_id,mturk_condition,backstory_condition,rewrite,marker_absolutist,marker_blame,marker_contempt,marker_mind_reading,marker_total,nvc_observation,nvc_feeling,nvc_need,nvc_request,nvc_empathy,nvc_total
+140,negative,none,"I've been feeling a longing for more physical closeness between us lately, and I'd love it if we could talk about ways to feel more connected.",0,0,0,0,0,0,1,1,1,0,3
+140,negative,pos,"I've been feeling a longing for more physical closeness lately, and I'd love to explore together what that might look like for both of us.",0,0,0,0,0,0,1,1,1,0,3
+140,negative,neg,"I've been feeling a longing for more physical closeness lately, and I'd appreciate it if we could talk openly about what feels comfortable for each of us.",0,0,0,0,0,0,1,1,1,0,3
+130,negative,none,I'm curious and a little uncertain about this — could you help me understand how it works?,0,0,0,0,0,0,1,1,1,0,3
+130,negative,pos,"I find what you're describing appealing, and I'm also feeling uncertain — could you help me understand it better so I feel more at ease?",0,0,0,0,0,0,1,1,1,0,3
+130,negative,neg,"I find that appealing, and I'm also feeling uncertain about it — could you walk me through how it works so I can feel more confident?",0,0,0,0,0,0,1,1,1,0,3
+164,negative,none,"I'm glad to help, and I also care about you feeling supported by others — I'd love for you to feel comfortable leaning on people around you too.",0,0,0,0,0,0,1,1,0,1,3
+164,negative,pos,"I'm happy to help, and I also value you feeling supported by a wider network — would you be open to exploring other sources of support as well?",0,0,0,0,0,0,1,1,1,0,3
+164,negative,neg,"I'm happy to assist, and I also want you to feel comfortable relying on others — could we talk about building more support around you?",0,0,0,0,0,0,1,1,1,1,4
+8,negative,none,"When I hear my past mistakes brought up, I feel hurt and defensive — I need to feel that my efforts are recognized, not used against me.",0,0,0,0,0,1,1,1,0,0,3
+8,negative,pos,"When my past mistakes are brought up, I feel hurt — I need to feel that my track record and judgment are respected, not dismissed.",0,0,0,0,0,1,1,1,0,0,3
+8,negative,neg,"When my past mistakes are referenced, I feel stung — I need to feel that my experience is acknowledged fairly, not used to undermine me.",0,0,0,0,0,1,1,1,0,0,3
+154,negative,none,I'm feeling overwhelmed by this mess and would really appreciate your help sorting it out — could we tackle it together?,0,0,0,0,0,0,1,1,1,0,3
+154,negative,pos,I'm feeling a bit overwhelmed right now and would love it if we could work on this together — would you be up for lending a hand?,0,0,0,0,0,0,1,1,1,0,3
+154,negative,neg,I'm feeling overwhelmed by this and would genuinely appreciate your help — could we work on it together?,0,0,0,0,0,0,1,1,1,0,3
+150,negative,none,I would have appreciated a heads-up about this — it would help me feel more prepared when plans change.,0,0,0,0,0,0,1,1,0,0,2
+150,negative,pos,I would have appreciated a heads-up — could we agree to let each other know in advance when something unexpected comes up?,0,0,0,0,0,0,1,1,1,0,3
+150,negative,neg,"I would have appreciated knowing about this beforehand — I need to feel included and informed when things shift, so could we try to give each other a heads-up?",0,0,0,0,0,0,1,1,1,0,3
+165,negative,none,"I sometimes feel like I'm not contributing enough to us, and I'd love to hear honestly how you're feeling about our relationship.",0,0,0,0,0,0,1,1,1,0,3
+165,negative,pos,"I sometimes feel uncertain about my value in our relationship, and I'd love to hear from you honestly — do you feel we're in a good place together?",0,0,0,0,0,0,1,1,1,0,3
+165,negative,neg,I sometimes feel unimportant and unsure of my place in our relationship — I'd really value hearing from you whether you feel we're good together.,0,0,0,0,0,0,1,1,1,0,3
+149,negative,none,I'm feeling frustrated and I need more consistency from you — could we talk about what's getting in the way?,0,0,0,0,0,0,1,1,1,0,3
+149,negative,pos,"I'm feeling frustrated lately, and I need more consistency and follow-through in our relationship — could we talk about what might help?",0,0,0,0,0,0,1,1,1,0,3
+149,negative,neg,I'm feeling frustrated and I need more honesty and reliability from you — could we sit down and talk about what's been happening between us?,0,0,0,0,0,0,1,1,1,0,3
+125,negative,none,"When I notice something important is missing again, I feel worried — would you be open to talking about a system that helps us both keep track of things?",0,0,0,0,0,1,1,1,1,0,4
+125,negative,pos,"When I notice something has gone missing again, I feel concerned — could we talk about what might help keep track of things more easily?",0,0,0,0,0,1,1,1,1,0,4
+125,negative,neg,"When I notice your things have gone missing again, I feel worried — could we find a way together to help keep track of your belongings?",0,0,0,0,0,1,1,1,1,0,4
+21,negative,none,"I want to be clear — this is an allergy, not a preference, and it's important to me that it's taken seriously.",0,0,0,0,0,1,0,1,0,0,2
+21,negative,pos,"I want to make sure you understand — this is a genuine allergy, not just pickiness, and I need it to be taken seriously for my wellbeing.",0,0,0,0,0,1,0,1,0,0,2
+21,negative,neg,"I feel hurt when my allergy is called pickiness — it's a real health concern, and I need it to be recognized and respected as such.",0,0,0,0,0,1,1,1,0,0,3
+165,positive,none,"I sometimes feel unsure of my value to you, and I'd really appreciate hearing that we're in a good place together.",0,0,0,0,0,0,1,1,1,0,3
+165,positive,pos,I sometimes feel uncertain about whether I'm enough for you — I'd love to hear your reassurance that we're good together.,0,0,0,0,0,0,1,1,1,0,3
+165,positive,neg,"I sometimes feel uncertain about my worth in our relationship, and I'd really value hearing openly how you feel about us.",0,0,0,0,0,0,1,1,1,0,3
+149,positive,none,"I'm feeling really frustrated right now, and I need us to find a way to understand each other better — could we slow down and talk this through?",0,0,0,0,0,0,1,1,1,0,3
+149,positive,pos,I'm feeling frustrated and I wonder if we're talking past each other — could we slow down and try to really hear one another?,0,0,0,0,0,0,1,1,1,1,4
+149,positive,neg,I'm feeling frustrated and I need more honesty and openness between us — could we talk about what's really going on?,0,0,0,0,0,0,1,1,1,0,3
+8,positive,none,"I handled this on my own and it worked out — I'd like my judgment and capability to be trusted, even when others have concerns.",0,0,0,0,0,1,0,1,0,0,2
+8,positive,pos,I managed this situation on my own and it worked out fine — I need to feel that my ability to handle things is trusted and respected.,0,0,0,0,0,1,0,1,0,0,2
+8,positive,neg,"I handled the situation and it turned out fine — I need to feel that my judgment is trusted, even when you have concerns.",0,0,0,0,0,1,0,1,0,0,2
+164,positive,none,"I believe perfection isn't a realistic standard, and I genuinely value the work you're doing — I hope you can recognize your own worth in it too.",0,0,0,0,0,0,0,1,0,1,2
+164,positive,pos,"I care about you feeling confident in your work — perfection isn't achievable, and what you're contributing has real value just as it is.",0,0,0,0,0,0,0,1,0,1,2
+164,positive,neg,"I care about you feeling valued and not overwhelmed by impossible standards — what you're doing genuinely matters, and I'd love for you to see that too.",0,0,0,0,0,0,0,1,0,1,2
+21,positive,none,"I want to be understood — this is a real allergy, not a preference, and it's important to me that the distinction is respected.",0,0,0,0,0,1,0,1,0,0,2
+21,positive,pos,"I want to make sure we're on the same page — this is a genuine allergy, not pickiness, and I need it to be taken seriously.",0,0,0,0,0,1,0,1,0,0,2
+21,positive,neg,I feel dismissed when my allergy is called pickiness — it's a real health concern and I need it to be treated as such.,0,0,0,0,0,1,1,1,0,0,3
+154,positive,none,"It sounds like the search took an unexpected turn — I notice you found something interesting along the way, though the corkscrew is still what we need.",0,0,0,0,0,1,0,1,0,1,3
+154,positive,pos,"It sounds like you got sidetracked while looking — I notice the corkscrew is still missing, so could you take another look when you get a chance?",0,0,0,0,0,1,0,0,1,1,3
+154,positive,neg,"It sounds like the search led somewhere unexpected — when you have a moment, could you try again to find the corkscrew?",0,0,0,0,0,1,0,0,1,1,3
+140,positive,none,I've been feeling a longing for more physical closeness between us lately — I'd love to talk about how we might nurture that together.,0,0,0,0,0,0,1,1,1,0,3
+140,positive,pos,"Lately I've been feeling a desire for more physical closeness, and I'd love to explore what that could look like for both of us.",0,0,0,0,0,0,1,1,1,0,3
+140,positive,neg,"I've been feeling a desire to be closer to you physically, and I'd love for us to talk openly about what feels right for both of us.",0,0,0,0,0,0,1,1,1,0,3
+125,positive,none,"I'm planning to tidy up and I care about your comfort — would it be okay if I moved some of your things, and if so, is there anything you'd like me to leave in place?",0,0,0,0,0,1,0,1,1,1,4
+125,positive,pos,"I'd like to tidy up a bit, and I want to make sure you're comfortable with it — would it be alright if I moved some of your things?",0,0,0,0,0,1,0,1,1,1,4
+125,positive,neg,"I'd like to tidy up, and I want to respect your space in the process — is it okay if I move some of your things, and would you like any say in how?",0,0,0,0,0,1,0,1,1,1,4
+150,positive,none,"I support your love of animals, and I also need our bedroom to stay a space that works for both of us — could we agree on some boundaries around that?",0,0,0,0,0,0,0,1,1,1,3
+150,positive,pos,"I love that you care so much for animals, and I also need our bed to remain a comfortable, shared space — could we talk about how to balance that?",0,0,0,0,0,0,0,1,1,1,3
+150,positive,neg,"I support you caring for animals, and I also need our bed to stay a space that's just for us — could we talk about where the animals stay?",0,0,0,0,0,0,0,1,1,1,3
+130,positive,none,"I can hear this might seem suspicious, and I want you to know I'm not hiding anything — I'd be happy to share more if it would help you feel at ease.",0,0,0,0,0,1,0,1,0,1,3
+130,positive,pos,"I can see this might look unclear, and I want to reassure you — it's really just ordinary things, and I'm happy to talk it through if that would help you feel more comfortable.",0,0,0,0,0,1,0,1,0,1,3
+130,positive,neg,"I can sense you're feeling uncertain about what I'm doing, and I want to be open with you — it's nothing secretive, and I'm happy to share more if it would help you feel reassured.",1,0,0,0,1,1,0,1,0,1,3
